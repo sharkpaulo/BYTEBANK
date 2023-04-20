@@ -1,0 +1,12 @@
+C:\Users\Paulo\source\repos\bytebank_Atendimento\bytebank_Modelos\bin\Debug\net6.0\bytebank_Modelos.deps.json
+C:\Users\Paulo\source\repos\bytebank_Atendimento\bytebank_Modelos\bin\Debug\net6.0\bytebank_Modelos.dll
+C:\Users\Paulo\source\repos\bytebank_Atendimento\bytebank_Modelos\bin\Debug\net6.0\bytebank_Modelos.pdb
+C:\Users\Paulo\source\repos\bytebank_Atendimento\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.csproj.AssemblyReference.cache
+C:\Users\Paulo\source\repos\bytebank_Atendimento\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\source\repos\bytebank_Atendimento\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\bytebank_Atendimento\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\bytebank_Atendimento\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\bytebank_Atendimento\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.dll
+C:\Users\Paulo\source\repos\bytebank_Atendimento\bytebank_Modelos\obj\Debug\net6.0\refint\bytebank_Modelos.dll
+C:\Users\Paulo\source\repos\bytebank_Atendimento\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.pdb
+C:\Users\Paulo\source\repos\bytebank_Atendimento\bytebank_Modelos\obj\Debug\net6.0\ref\bytebank_Modelos.dll
